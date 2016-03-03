@@ -21,8 +21,10 @@ Height of multiplication table: 8
   7  14  21  28  35  42  49  56  63  70
   8  16  24  32  40  48  56  64  72  80
 """
-a = input("What is the width?") 
-b = input("What is the height")
+a = int(input("What is the width?")) 
+b = int(input("What is the height"))
 
-for x in range(0,(int(a)*int(b))):
-    
+a = width 
+b = height
+
+for x in range(0(a)*int(b))
