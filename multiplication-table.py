@@ -32,5 +32,3 @@ for x in range(a*b):
         c = 0
         print("{0:>3}".format(x+1))
     else:
-        print("{0:>3}".format(x+1), end =" ")
-    for n in
