@@ -33,6 +33,4 @@ for x in range(a*b):
         print("{0:>3}".format(x+1))
     else:
         print("{0:>3}".format(x+1), end =" ")
-    for n in range (1,b + 1):   
-        print(n)
-     for indx in range (row, (a +1) 
+    for n in
