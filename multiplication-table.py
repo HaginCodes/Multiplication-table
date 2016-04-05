@@ -29,7 +29,7 @@ b = int(input("Height of multiplication table: "))
 cube = 1 
 
 while cube <= b: 
-    for num in[(cube*a) for a in range(1, width)]:
+    for num in[(cube*x) for x in range(1, width)]:
         print(("{0:>3}".format(num)), end=" ")
     print(("{0:>3}".format(cube*(width))))
     cube = cube+1
