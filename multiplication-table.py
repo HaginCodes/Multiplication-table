@@ -26,9 +26,4 @@ b = int(input("Height of multiplication table: "))
 
 
 c = 0
-for x in range(a*b):
-    c += 1
-    if c == a:
-        c = 0
-        print("{0:>3}".format(x+1))
-    e
+for 
