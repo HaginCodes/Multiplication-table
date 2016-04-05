@@ -31,4 +31,4 @@ for x in range(a*b):
     if c == a:
         c = 0
         print("{0:>3}".format(x+1))
-    else:
+    e
