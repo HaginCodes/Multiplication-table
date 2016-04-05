@@ -21,9 +21,15 @@ Height of multiplication table: 8
   7  14  21  28  35  42  49  56  63  70
   8  16  24  32  40  48  56  64  72  80
 """
+import sys
 a = int(input("Width of multiplication table: ")) 
 b = int(input("Height of multiplication table: "))
 
 
-c = 0
-for 
+cube = 1 
+
+while cube <= tall: 
+    for num in[(cube*a) for a in range(1, width)]:
+        print(("{0:>3}".format(num)), end=" ")
+    print(("{0:>3}".formart(cube*width))))
+    cube = cube+1
